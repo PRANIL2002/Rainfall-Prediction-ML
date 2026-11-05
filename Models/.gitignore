@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Optional: ignore local environment files
+.env
+
+# Model files can be large; remove the leading # if you do not want
+# to version the trained model in Git.
+# models/*.pkl
